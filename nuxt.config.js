@@ -3,7 +3,7 @@ export default {
   head: {
     title: 'devblau',
     htmlAttrs: {
-      lang: 'en',
+      lang: 'pt',
     },
     meta: [
       { charset: 'utf-8' },
